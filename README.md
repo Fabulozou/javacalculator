@@ -46,4 +46,4 @@
 <p>
     <img src="./icons/jsimage.jpg" width="50px" height="50px"><br>
     <a href="https://en.wikipedia.org/wiki/javascript" target="_blank">JavaScript</a> 
-    was used to create this game </p>
+    was used to create this API  </p>
