@@ -1,5 +1,5 @@
-# javacalculator
-Basic Calculator Using HTML, CSS and Javascript 
+<h1>Fabuloso Calculator<h1>
+<h2>Basic Calculator Using HTML, CSS and Javascript<h2> 
 
 
 
